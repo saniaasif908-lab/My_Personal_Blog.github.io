@@ -1,5 +1,6 @@
 ---
 layout: page
+icon: fas fa-user
 title: About Me
 description: "Learn more about Sania Asif, her Computer Engineering journey, coding projects, and university experiences."
 permalink: /about/
