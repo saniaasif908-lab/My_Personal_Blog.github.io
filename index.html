@@ -1,4 +1,135 @@
----
-layout: home
-# Index page
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sania Asif - Computer Engineering Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f7f9fb;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 60px auto;
+      padding: 20px;
+    }
+
+    header {
+      text-align: left;
+      margin-bottom: 50px;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      margin: 0 0 10px 0;
+      color: #0c4a6e;
+    }
+
+    header h2 {
+      font-size: 1.3rem;
+      margin: 0;
+      color: #334155;
+    }
+
+    section {
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 35px 30px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+      margin-bottom: 40px;
+    }
+
+    section p {
+      font-size: 1rem;
+      margin-bottom: 20px;
+      color: #475569;
+    }
+
+    section ul {
+      list-style: none;
+      padding-left: 0;
+      margin-bottom: 20px;
+    }
+
+    section ul li {
+      margin-bottom: 10px;
+      font-weight: 500;
+    }
+
+    section ul li::before {
+      content: "✅ ";
+    }
+
+    .quote {
+      font-style: italic;
+      color: #64748b;
+      margin-top: 20px;
+      font-size: 0.95rem;
+    }
+
+    .link-button {
+      display: inline-block;
+      font-size: 1rem;
+      font-weight: 600;
+      color: #ffffff;
+      background-color: #2563eb;
+      padding: 12px 28px;
+      border-radius: 9999px;
+      text-decoration: none;
+      transition: background-color 0.3s;
+    }
+
+    .link-button:hover {
+      background-color: #1d4ed8;
+    }
+
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 2rem;
+      }
+
+      section {
+        padding: 25px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <!-- Header -->
+    <header>
+      <h1>Hello, I’m Sania Asif</h1>
+      <h2>Computer Engineering Student & Aspiring Developer</h2>
+    </header>
+
+    <!-- Intro Section -->
+    <section>
+      <p>
+        Welcome to my personal portfolio! Here, I share my journey as a Computer Engineering student,
+        the projects I’ve built, and the lessons I’ve learned along the way.
+      </p>
+
+      <ul>
+        <li>💻 Hands-on coding projects in C#, Python, and MySQL</li>
+        <li>🎓 University experiences, teamwork, and events</li>
+        <li>📚 Learning milestones, challenges, and personal growth</li>
+      </ul>
+
+      <p class="quote">
+        “Success is built from consistent effort, not luck.”
+      </p>
+
+      <a class="link-button" href="/posts/my-university-journey/">Read My Journey</a>
+    </section>
+
+  </div>
+
+</body>
+</html>
