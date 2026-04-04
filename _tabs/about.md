@@ -33,8 +33,5 @@ Here are some of the skills and tools I actively work with:
 
 I aim to continuously grow as a developer, contribute to meaningful projects, and share my learning experiences with others.
 
-## Explore More
-
-Check out my [Journey](/posts/my-university-journey/) to see my projects, university experiences, and personal growth.
 
 ---
