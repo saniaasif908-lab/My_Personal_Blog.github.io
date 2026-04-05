@@ -40,6 +40,7 @@ Programming classes introduced me to Python. Initially, I could only understand 
 ### Quizzes and Progress
 My quiz performance reflected my journey: good in the first quiz, poor in the second, and much improved in the third after extra effort. This taught me that programming requires consistency and patience.
 
+![Alt text describing the image](assets/AP2.jpg)
 ---
 
 ## 4. Lab Challenges and Growth
@@ -70,6 +71,7 @@ Preparing and presenting our project in an exhibition was both exciting and stre
 ### Overcoming Challenges
 Presenting alone during the exhibition was nerve-wracking, but it improved my confidence and highlighted the importance of communication skills.
 
+![Alt text describing the image](assets/68e8eedfb4ac164c6bbb420a_Mastering the Art of Presenting a Company  Essential Tips for Impactful Presentation.webp)
 ---
 
 ## 7. Independent Lab Work
@@ -100,6 +102,7 @@ Final exams, especially for programming, were challenging. I worked hard despite
 ### Achievement
 My efforts paid off, performing very well and even topping the class in programming. This reinforced that consistency and hard work lead to success.
 
+![Alt text describing the image](assets/exams-word-made-of-wooden-letters-on-a-white-background-3d-render-stock-photo.jpg)
 ---
 
 ## 10. Second Semester and Iran War Challenges
