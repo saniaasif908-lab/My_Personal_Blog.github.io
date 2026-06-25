@@ -6,7 +6,6 @@ categories: portfolio
 tags: [computer-engineering, uet, student-life, technology, engineering, learning, programming]
 permalink: /posts/beginning-my-computer-engineering-journey-at-uet/
 ---
-
 # 🚀 Beginning My Computer Engineering Journey at UET Faisalabad
 
 Starting my Computer Engineering journey at UET Faisalabad was one of the most exciting milestones of my academic life. After completing my intermediate education, I was eager to enter a field that combines innovation, technology, and problem-solving. Computer Engineering is a discipline that connects hardware and software, allowing students to understand how modern computer systems work and how technology can be used to solve real-world problems.
