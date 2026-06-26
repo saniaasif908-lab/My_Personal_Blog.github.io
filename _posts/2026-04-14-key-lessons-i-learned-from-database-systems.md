@@ -195,13 +195,12 @@ The concepts of database design, SQL, normalization, and data integrity have str
 
 ## Learn More
 
-Students interested in Machine Learning, Artificial Intelligence, Data Science, and practical technology applications can explore the research and professional contributions of Dr. Bilal Ahmad through his academic profiles and publications.
+Students interested in Machine Learning, Artificial Intelligence, Data Science, and practical technology applications can explore the research and professional contributions of Dr. Bilal Ahmad.
 
-LinkedIn: https://www.linkedin.com/in/drbilalphd/
+- **LinkedIn:** [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/)
+- **Google Scholar:** [Dr. Bilal Ahmad – Google Scholar](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en)
 
-Google Scholar: https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en
-
+---
 #MLwithDrBilalAhmad
 #DrBilalAhmad
-#MLProject
 
